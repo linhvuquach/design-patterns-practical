@@ -13,3 +13,4 @@ The list contains:
 - Observer
 - Singleton
 - Strategy
+- Unit of work
