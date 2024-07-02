@@ -1,8 +1,8 @@
 # Design pattern practical
 TODO:
-- u should say something
+- Update Readme with detail information.
 
-The list contains:
+Useful design patterns you should go through:
 - Adapter
 - Bridge
 - Builder
